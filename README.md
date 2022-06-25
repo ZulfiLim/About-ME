@@ -37,6 +37,6 @@
 
 - :zap: In my free time, I waste my time to consume vary FinTech and Blockchain articles.
 
+   <div id='badge'>
 - :mailbox:How to reach me: 
-  <div id='badge' align='top'>
-  <a href="https://twitter.com/ZulfiLim"><img src="https://techweez.com/wp-content/uploads/2019/12/twitter-gif.gif" width="150px" height="100px"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px"/>
+  <a href="https://twitter.com/ZulfiLim"><img src="https://techweez.com/wp-content/uploads/2019/12/twitter-gif.gif" width="150px" height="100px"/></a>
