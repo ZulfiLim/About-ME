@@ -5,11 +5,11 @@
   <div />
   <ul>I'm a 'self thaught' programmer, you know? Look at the 'Gif' it's the way I mostly spent my time with inteligent machine.
   <ul/>
-  It's frustrating sometimes to spend time as a self learner. But, I very enjoy it and it takes me to more pride of it when acquiring the point desired.
+  It's frustrating sometimes to spend time as a self learner. But, I very enjoy it and it takes me to more proude of it when acquiring the point desired.
   </ul>
   
 <div id="header" align="center">
-  <img src="https://c.tenor.com/PPn5QJWoT_UAAAAC/monkey-computer.gif" />   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px"/>
+  <img src="https://c.tenor.com/PPn5QJWoT_UAAAAC/monkey-computer.gif" />
 </div>
 </div>
 
@@ -27,3 +27,16 @@
 <div id='badge'>
   <img src="https://komarev.com/ghpvc/?username=ZulfiLim&style=flat-square&color=red" alt=""/>
 </div>
+<div align='start'>
+  
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia
+  
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications in my own FinTech project.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I waste my time to consume vary FinTech and Blockchain articles.
+
+- :mailbox:How to reach me: 
+  <div id='badge' align='top'>
+  <a href="https://twitter.com/ZulfiLim"><img src="https://techweez.com/wp-content/uploads/2019/12/twitter-gif.gif" width="150px" height="100px"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px"/>
