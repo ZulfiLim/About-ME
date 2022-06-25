@@ -37,6 +37,6 @@
 
 - :zap: In my free time, I waste my time to consume vary FinTech and Blockchain articles.
 
+    <div id='badge'>
 - :mailbox:How to reach me: 
-  <div id='badge'>
-  <a href="https://twitter.com/ZulfiLim"><img src="https://techweez.com/wp-content/uploads/2019/12/twitter-gif.gif" width="150px" height="100px"/></a>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
