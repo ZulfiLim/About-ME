@@ -29,6 +29,10 @@
 </div>
 <div align='start'>
   
+  <div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/13142418/53255520-bf44de00-3700-11e9-9f47-50bc50ed6e83.gif" witdh="50px"/>
+</div>
+  
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia
   
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications in my own FinTech project.
@@ -41,3 +45,4 @@
 - :mailbox:How to reach me: 
   <a href="https://twitter.com/ZulfiLim">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  </div>
