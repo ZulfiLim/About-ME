@@ -5,7 +5,7 @@
   <div />
   <ul>I'm a 'self thaught' programmer, you know? Look at the 'Gif' it's the way I mostly spent my time with inteligent machine.
   <ul/>
-  It's frustrating sometimes to spend time as a self learner. But, I very enjoy it and it takes me to more proude of it when acquiring the point desired.
+  It's frustrating sometimes to spend time as a self learner. But, I very enjoy it and it takes me to more proud of it when acquiring the point desired.
   </ul>
   
 <div id="header" align="center">
