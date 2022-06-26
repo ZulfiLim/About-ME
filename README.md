@@ -64,7 +64,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
   
-  <div>
+  <div align="center">
   <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/Solidity-development-banner.png" title="Solidity" alt="Solidity" width="47" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/584830f5cef1014c0b5e4aa1.png" title="React" alt="React" width="46" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/C.png" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
@@ -77,3 +77,8 @@
     <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/Kotlin_Icon.png" title="KOTLIN SPASIBA BAL'SHOEI" alt="KOTLIN" width="40" height="40"/>&nbsp;
     
 </div>
+
+  ---
+
+### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KeccakKitchen&theme=dark&background=000000)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeccakKitchen&layout=compact&theme=vision-friendly-dark)
