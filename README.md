@@ -33,21 +33,19 @@
 
 ### 👨‍💻: About Me :
   
-   I am a Full Stack Programmer which was just began programming 5 months later since the last day where I droped out of economy management class, arguably due to jobless lol <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+   I am a Full Stack Programmer which was just began programming since 5 months later after droped out of economy management class, arguably due to jobless lol <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia
   
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600"/>
 </div>
   
-- 🗒️: VIM Lovers!
+- 🗒️ VIM Lovers!
   
   <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/13142418/53255520-bf44de00-3700-11e9-9f47-50bc50ed6e83.gif" witdh="50px"/>
 </div>
   
   <div align='start'>
-
-- 🐦 from Indonesia
   
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web app and applications (apk) in my own FinTech project.
 
