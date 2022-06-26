@@ -70,7 +70,7 @@
   <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/C.png" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/5848152fcef1014c0b5e4967.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/1022px-Vimlogo.svg.png" title="VIM" alt="VIM" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/download-icon-vscode%2Bicons%2Btype%2Bpug-1324451462348933576_512.png" title="PUG DOGE" alt="PUG (EX-JADE)" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/download-icon-vscode%2Bicons%2Btype%2Bpug-1324451462348933576_512.png" title="PUG DOGE (EX-JADE)" alt="PUG" width="50" height="50"/>&nbsp;
     <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/java-logo-1.png" title="JAV" alt="JAV" width="50" height="50"/>&nbsp;
     <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/logo-mysql-26353.png" title="ICE Q L" alt="SQL" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/Git-Icon-1788C.png" title="GIT" alt="SIGIT" width="40" height="40"/>&nbsp;
