@@ -33,13 +33,13 @@
 
 ### 👨‍💻: About Me :
   
-   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia
+   I am not a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia
   
   <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/13142418/53255520-bf44de00-3700-11e9-9f47-50bc50ed6e83.gif" witdh="50px"/>
 </div>
   
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications in my own FinTech project.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web app and applications (apk) in my own FinTech project.
 
 - :seedling: Exploring Technical Content Writing.
 
