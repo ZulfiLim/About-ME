@@ -65,19 +65,15 @@
 ### :hammer_and_wrench: Languages and Tools :
   
   <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/Solidity-development-banner.png" title="Solidity" alt="Solidity" width="47" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/584830f5cef1014c0b5e4aa1.png" title="React" alt="React" width="46" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/C.png" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/5848152fcef1014c0b5e4967.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/1022px-Vimlogo.svg.png" title="VIM" alt="VIM" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/download-icon-vscode%2Bicons%2Btype%2Bpug-1324451462348933576_512.png" title="PUG DOGE" alt="PUG (EX-JADE)" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/java-logo-1.png" title="JAV" alt="JAV" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/logo-mysql-26353.png" title="ICE Q L" alt="SQL" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/Git-Icon-1788C.png" title="GIT" alt="SIGIT" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/KeccakKitchen/KeccakKitchen/6c1787430ab87ffe0672b0110bc18c24969cb0d2/Kotlin_Icon.png" title="KOTLIN SPASIBA BAL'SHOEI" alt="KOTLIN" width="40" height="40"/>&nbsp;
+    
 </div>
