@@ -36,7 +36,7 @@
    I am a Full Stack Programmer which was just began programming since 5 months later after droped out of economy management class, arguably due to jobless lol <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia
   
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600"/>
 </div>
   
 - 🗒️: VIM Lovers!
