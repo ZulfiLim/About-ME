@@ -33,7 +33,7 @@
 
 ### 👨‍💻: About Me :
   
-   I am not a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia
+   I am not a Full Stack Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia
   
   <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/13142418/53255520-bf44de00-3700-11e9-9f47-50bc50ed6e83.gif" witdh="50px"/>
