@@ -47,7 +47,7 @@
   
   <div align='start'>
 
-- 🐦: from Indonesia
+- 🐦 from Indonesia
   
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web app and applications (apk) in my own FinTech project.
 
