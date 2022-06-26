@@ -41,6 +41,8 @@
   <img src="https://user-images.githubusercontent.com/13142418/53255520-bf44de00-3700-11e9-9f47-50bc50ed6e83.gif" witdh="50px"/>
 </div>
   
+  <div align='start'>
+  
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web app and applications (apk) in my own FinTech project.
 
 - :seedling: Exploring Technical Content Writing.
@@ -52,3 +54,4 @@
   <a href="https://twitter.com/KeccakKitchen">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   </div>
+</div>
