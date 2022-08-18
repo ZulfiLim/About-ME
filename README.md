@@ -1,17 +1,17 @@
 <div align="center">
-/*  <h1>
-  Hi, Programmers!
-</h1>
-  <div />
-  <ul>I'm a 'self thaught' programmer, you know? Look at the 'Gif' it's the way I mostly spent my time with inteligent machine.
-  <ul/>
-  It's frustrating sometimes to spend time as a self learner. But, I very enjoy it and it takes me to more proud of it when acquiring the point desired.
-  </ul>
-  
-<div id="header" align="center">
-  <img src="https://c.tenor.com/PPn5QJWoT_UAAAAC/monkey-computer.gif" />
-</div>*/
-</div>
+  // <h1>
+//  Hi, Programmers!
+//</h1>
+//  <div />
+//  <ul>I'm a 'self thaught' programmer, you know? Look at the 'Gif' it's the way I mostly spent my time with inteligent machine.
+//  <ul/>
+//  It's frustrating sometimes to spend time as a self learner. But, I very enjoy it and it takes me to more proud of it when acquiring the point desired.
+//  </ul>
+//  
+//<div id="header" align="center">
+//  <img src="https://c.tenor.com/PPn5QJWoT_UAAAAC/monkey-computer.gif" />
+//</div>
+//</div>
 
 <div id="badges">
   <a href="https://twitter.com/KeccakKitchen">
