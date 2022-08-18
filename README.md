@@ -1,17 +1,4 @@
-<div align="center">
-  // <h1>
-//  Hi, Programmers!
-//</h1>
-//  <div />
-//  <ul>I'm a 'self thaught' programmer, you know? Look at the 'Gif' it's the way I mostly spent my time with inteligent machine.
-//  <ul/>
-//  It's frustrating sometimes to spend time as a self learner. But, I very enjoy it and it takes me to more proud of it when acquiring the point desired.
-//  </ul>
-//  
-//<div id="header" align="center">
-//  <img src="https://c.tenor.com/PPn5QJWoT_UAAAAC/monkey-computer.gif" />
-//</div>
-//</div>
+<div align="center"> <div>
 
 <div id="badges">
   <a href="https://twitter.com/KeccakKitchen">
@@ -33,25 +20,25 @@
 
 ### 👨‍💻: About Me :
   
-   I am a Full Stack Programmer which was just began programming since 5 months later after droped out of economy management class, arguably due to jobless lol <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia
+   I am a Full Stack Programmer which was just began programming since 5 months later after droped out of economy management class <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia
   
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400"/>
 </div>
   
 - 🗒️ VIM Lovers!
   
   <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/13142418/53255520-bf44de00-3700-11e9-9f47-50bc50ed6e83.gif" witdh="50px"/>
+  <img src="https://user-images.githubusercontent.com/13142418/53255520-bf44de00-3700-11e9-9f47-50bc50ed6e83.gif" width="500"/>
 </div>
   
   <div align='start'>
   
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web app and applications (apk) in my own FinTech project.
+- :telescope: I’m a freelance developer, intended to be a Software Engineer, mastering frontend and backend for building web app and android applications for my own FinTech project.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I waste my time to consume vary FinTech and Blockchain articles.
+- :zap: In my free time, I mostly spend my time to consume vary FinTech and Blockchain articles.
 
     <div id='badge'>
 - :mailbox:How to reach me: 
