@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>
+/*  <h1>
   Hi, Programmers!
 </h1>
   <div />
@@ -10,7 +10,7 @@
   
 <div id="header" align="center">
   <img src="https://c.tenor.com/PPn5QJWoT_UAAAAC/monkey-computer.gif" />
-</div>
+</div>*/
 </div>
 
 <div id="badges">
